@@ -4,7 +4,6 @@ from random import randint
 import random
 import pandas as pd
 import numpy as np
-import training_text
 
 '''
 Markov Chain Text Generator
